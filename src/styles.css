@@ -17,7 +17,7 @@
     padding: 15px;
     background-image: url(./imagens/Apresentação\ Divertida\ Eu\ Nunca\ Edição\ da\ Noite\ das\ Meninas\ Adesivos\ e\ Emblemas\ Roxo\ e\ Rosa\ \(3\).png);
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 .wrap-login{
     width: 500px;
